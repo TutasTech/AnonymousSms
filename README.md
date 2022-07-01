@@ -8,6 +8,7 @@ python and git
 git clone https://github.com/TutasTech/AnonymousSms.git
 
 cd AnonymousSms
+
 python TutasSend.py
 
 # follow us on telegram
