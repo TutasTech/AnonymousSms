@@ -1,7 +1,10 @@
 
-from re import S
 import requests
-import colorama
+from colorama import init, Fore, Back
+init()
+
+
+print(Fore.GREEN)
 
 
 
@@ -10,8 +13,10 @@ n = '\033[0m'
 r = '\033[91m'
 
 aldo="""
+
+                                                                              
 **********************************************************************
-*     CODED BY: OROCHIMARU                                            * 
+*     CODED BY: OROCHIMARU                                            *     *
 *     TELEGRAM: t.me/TUTAS_TECH                                       *   *   *
 *     GITHUB  : https://github.com/TutasTech                          * *      *                                                   
 *     YOUTUBE : https://youtube.com/channel/UClpEVLJVWOx89Vnqq-BG8Lg ********************                                                     
@@ -25,7 +30,7 @@ aldo="""
 """
 
 
-print(g)
+print()
 
 print(aldo,"\n")
 
